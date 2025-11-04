@@ -1,71 +1,62 @@
-# Hi there, I'm ArtemisDK 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%20there!%20I'm%20Nikolaj%20👋&height=100&section=header"/>
+</p>
 
-### Full-stack developer from Denmark
+<h1 align="center">
+  Let's Connect and Build Something Amazing! 🚀
+</h1>
 
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><strong>Technologies I work with</strong></summary>
-
-### 💻 Languages
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-### 🚀 Frameworks & Libraries
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-</div>
-
-### 🗄️ Databases & Cloud
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
-### 🔧 Tools
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-</div>
+<p align="center">
+<!-- Replace # with your actual links -->
+<a href="https://www.twitch.tv/artemis_dk"><img height="50" src="https://www.readmecodegen.com/api/social-icon?name=twitch&size=96&animation=glow&link=https%3A%2F%2Fwww.twitch.tv%2Fartemis_dk" alt="twitch" /></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<h2> 👨🏻‍💻 &nbsp;About Me</h2>
 
-<div align="center">
+```yaml
+name: Nikolaj Madsen
+based_in: Jelling, Denmark
+current_learning: ["Docker & Kubernetes", "React Native", "Advanced DevOps practices"]
+```
+  
+---  
+<h2> 🛠️ &nbsp;My Tech Stack</h2>
+<p align="left">
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="python"/>
+<img src="https://img.shields.io/badge/JavaScript-3776AB?logo=javascript&logoColor=fff&style=plastic" alt="javascript"/>
+<img src="https://img.shields.io/badge/TypeScript-3776AB?logo=typescript&logoColor=fff&style=plastic" alt="typescript"/>
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-3776AB?logo=react&logoColor=fff&style=plastic" alt="react"/>
+<img src="https://img.shields.io/badge/HTML5-3776AB?logo=html5&logoColor=fff&style=plastic" alt="html"/>
+<img src="https://img.shields.io/badge/CSS-3776AB?logo=css&logoColor=fff&style=plastic" alt="css3"/>
+<img src="https://img.shields.io/badge/Bootstrap-3776AB?logo=bootstrap&logoColor=fff&style=plastic"/>
+<!-- Backend & Databases -->
+<img src="https://img.shields.io/badge/Node.js-3776AB?logo=nodedotjs&logoColor=fff&style=plastic" alt="nodejs"/>
+<img src="https://img.shields.io/badge/PHP-3776AB?logo=php&logoColor=fff&style=plastic" alt="php"/>
+<img src="https://img.shields.io/badge/.ENV-3776AB?logo=dotenv&logoColor=fff&style=plastic" alt=".ENV Badge">
+<img src="https://img.shields.io/badge/Better%20Auth-3776AB?logo=betterauth&logoColor=fff&style=plastic" alt="Better Auth Badge">
+<!-- Mobile & DevOps -->
+<img src="https://img.shields.io/badge/discord.js-3776AB?logo=discorddotjs&logoColor=fff&style=plastic" alt="discord.js Badge">
+<!-- Tools -->
+<img src="https://img.shields.io/badge/AnyDesk-3776AB?logo=anydesk&logoColor=fff&style=plastic" alt="AnyDesk Badge">
+<img src="https://img.shields.io/badge/Blender-3776AB?logo=blender&logoColor=fff&style=plastic" alt="Blender Badge">
+<img src="https://img.shields.io/badge/Brave-3776AB?logo=brave&logoColor=fff&style=plastic" alt="Brave Badge">
+<img src="https://img.shields.io/badge/Cloudflare-3776AB?logo=cloudflare&logoColor=fff&style=plastic" alt="Cloudflare Badge">
+<img src="https://img.shields.io/badge/Cloudinary-3776AB?logo=cloudinary&logoColor=fff&style=plastic" alt="Cloudinary Badge">
+<img src="https://img.shields.io/badge/Composer-3776AB?logo=composer&logoColor=fff&style=plastic" alt="Composer Badge">
+<img src="https://img.shields.io/badge/EditorConfig-3776AB?logo=editorconfig&logoColor=fff&style=plastic" alt="EditorConfig Badge">
+<img src="https://img.shields.io/badge/Font%20Awesome-3776AB?logo=fontawesome&logoColor=fff&style=plastic" alt="Font Awesome Badge">
+<img src="https://img.shields.io/badge/Ghostery-3776AB?logo=ghostery&logoColor=fff&style=plastic" alt="Ghostery Badge">
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=thenikothegamer&show_icons=true&theme=merko&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thenikothegamer&theme=merko&layout=compact&hide_border=true)
-
-</div>
-
-</details>
-
----
-
-<div align="center">
-
-### 💫 *Building the web, one line at a time* 💫
-
-</div>
+<h2> 📈 &nbsp;My GitHub Stats</h2>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
