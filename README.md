@@ -56,6 +56,7 @@ current_learning: ["Docker & Kubernetes", "React Native", "Advanced DevOps pract
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+<img src="https://github.com/artemisdenmark/artemisdenmark/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
