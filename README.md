@@ -18,7 +18,7 @@
 ```yaml
 name: Nikolaj Madsen
 based_in: Jelling, Denmark
-current_learning: ["Docker & Kubernetes", "React Native", "Advanced DevOps practices"]
+current_learning: ["Docker & Kubernetes", "React Native", "Advanced DevOps practices", "Machine Learning"]
 ```
   
 ---  
