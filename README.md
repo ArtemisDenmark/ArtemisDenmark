@@ -10,7 +10,8 @@
 
 <p align="center">
   <!-- Replace # with your actual links -->
-  <a href="https://www.twitch.tv/artemis_dk"><img height="50" src="https://www.readmecodegen.com/api/social-icon?name=twitch&size=96&animation=glow&link=https%3A%2F%2Fwww.twitch.tv%2Fartemis_dk" alt="Twitch" /></a>
+  <a href="https://www.twitch.tv/artemis_dk"><img src="https://www.readmecodegen.com/api/social-icon?name=twitch&size=96&reverseBackground=true&link=https%3A%2F%2Fwww.twitch.tv%2Fartemis_dk" alt="twitch" /></a>
+  <a href="https://buymeacoffee.com/artemisdk"><img src="https://www.readmecodegen.com/api/social-icon?name=buymeacoffee&size=96&reverseBackground=true&link=https%3A%2F%2Fbuymeacoffee.com%2Fartemisdk" alt="buymeacoffee" /></a>
 </p>
 
 ---
