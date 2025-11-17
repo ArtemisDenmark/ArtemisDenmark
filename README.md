@@ -69,8 +69,8 @@ Here are some of the technologies I enjoy working with:
 Here's an overview of my GitHub activity. It reflects my coding journey and contributions. I'm always striving to improve and learn more!
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artemisdenmark&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemisdenmark&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
