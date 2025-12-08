@@ -35,31 +35,31 @@ Here are some of the technologies I enjoy working with:
 
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-3776AB?logo=javascript&logoColor=fff&style=plastic" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3776AB?logo=typescript&logoColor=fff&style=plastic" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-3776AB?logo=javascript&logoColor=fff&style=flat" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3776AB?logo=typescript&logoColor=fff&style=flat" alt="TypeScript"/>
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-3776AB?logo=react&logoColor=fff&style=plastic" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-3776AB?logo=html5&logoColor=fff&style=plastic" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-3776AB?logo=css3&logoColor=fff&style=plastic" alt="CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-3776AB?logo=bootstrap&logoColor=fff&style=plastic" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/React-3776AB?logo=react&logoColor=fff&style=flat" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-3776AB?logo=html5&logoColor=fff&style=flat" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-3776AB?logo=css&logoColor=fff&style=flat" alt="CSS Badge">
+  <img src="https://img.shields.io/badge/Bootstrap-3776AB?logo=bootstrap&logoColor=fff&style=flat" alt="Bootstrap"/>
   <!-- Backend & Databases -->
-  <img src="https://img.shields.io/badge/Node.js-3776AB?logo=nodedotjs&logoColor=fff&style=plastic" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PHP-3776AB?logo=php&logoColor=fff&style=plastic" alt="PHP"/>
-  <img src="https://img.shields.io/badge/.ENV-3776AB?logo=dotenv&logoColor=fff&style=plastic" alt=".ENV Badge">
-  <img src="https://img.shields.io/badge/Better%20Auth-3776AB?logo=betterauth&logoColor=fff&style=plastic" alt="Better Auth Badge">
+  <img src="https://img.shields.io/badge/Node.js-3776AB?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PHP-3776AB?logo=php&logoColor=fff&style=flat" alt="PHP"/>
+  <img src="https://img.shields.io/badge/.ENV-3776AB?logo=dotenv&logoColor=fff&style=flat" alt=".ENV Badge">
+  <img src="https://img.shields.io/badge/Better%20Auth-3776AB?logo=betterauth&logoColor=fff&style=flat" alt="Better Auth Badge">
   <!-- Mobile & DevOps -->
-  <img src="https://img.shields.io/badge/discord.js-3776AB?logo=discorddotjs&logoColor=fff&style=plastic" alt="discord.js Badge">
+  <img src="https://img.shields.io/badge/discord.js-3776AB?logo=discorddotjs&logoColor=fff&style=flat" alt="discord.js Badge">
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/AnyDesk-3776AB?logo=anydesk&logoColor=fff&style=plastic" alt="AnyDesk Badge">
-  <img src="https://img.shields.io/badge/Blender-3776AB?logo=blender&logoColor=fff&style=plastic" alt="Blender Badge">
-  <img src="https://img.shields.io/badge/Brave-3776AB?logo=brave&logoColor=fff&style=plastic" alt="Brave Badge">
-  <img src="https://img.shields.io/badge/Cloudflare-3776AB?logo=cloudflare&logoColor=fff&style=plastic" alt="Cloudflare Badge">
-  <img src="https://img.shields.io/badge/Cloudinary-3776AB?logo=cloudinary&logoColor=fff&style=plastic" alt="Cloudinary Badge">
-  <img src="https://img.shields.io/badge/Composer-3776AB?logo=composer&logoColor=fff&style=plastic" alt="Composer Badge">
-  <img src="https://img.shields.io/badge/EditorConfig-3776AB?logo=editorconfig&logoColor=fff&style=plastic" alt="EditorConfig Badge">
-  <img src="https://img.shields.io/badge/Font%20Awesome-3776AB?logo=fontawesome&logoColor=fff&style=plastic" alt="Font Awesome Badge">
-  <img src="https://img.shields.io/badge/Ghostery-3776AB?logo=ghostery&logoColor=fff&style=plastic" alt="Ghostery Badge">
+  <img src="https://img.shields.io/badge/AnyDesk-3776AB?logo=anydesk&logoColor=fff&style=flat" alt="AnyDesk Badge">
+  <img src="https://img.shields.io/badge/Blender-3776AB?logo=blender&logoColor=fff&style=flat" alt="Blender Badge">
+  <img src="https://img.shields.io/badge/Brave-3776AB?logo=brave&logoColor=fff&style=flat" alt="Brave Badge">
+  <img src="https://img.shields.io/badge/Cloudflare-3776AB?logo=cloudflare&logoColor=fff&style=flat" alt="Cloudflare Badge">
+  <img src="https://img.shields.io/badge/Cloudinary-3776AB?logo=cloudinary&logoColor=fff&style=flat" alt="Cloudinary Badge">
+  <img src="https://img.shields.io/badge/Composer-3776AB?logo=composer&logoColor=fff&style=flat" alt="Composer Badge">
+  <img src="https://img.shields.io/badge/EditorConfig-3776AB?logo=editorconfig&logoColor=fff&style=flat" alt="EditorConfig Badge">
+  <img src="https://img.shields.io/badge/Font%20Awesome-3776AB?logo=fontawesome&logoColor=fff&style=flat" alt="Font Awesome Badge">
+  <img src="https://img.shields.io/badge/Ghostery-3776AB?logo=ghostery&logoColor=fff&style=flat" alt="Ghostery Badge">
 </p>
 
 ---
