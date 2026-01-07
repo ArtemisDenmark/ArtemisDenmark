@@ -60,6 +60,8 @@ Here are some of the technologies I enjoy working with:
   <img src="https://img.shields.io/badge/EditorConfig-3776AB?logo=editorconfig&logoColor=fff&style=flat" alt="EditorConfig Badge">
   <img src="https://img.shields.io/badge/Font%20Awesome-3776AB?logo=fontawesome&logoColor=fff&style=flat" alt="Font Awesome Badge">
   <img src="https://img.shields.io/badge/Ghostery-3776AB?logo=ghostery&logoColor=fff&style=flat" alt="Ghostery Badge">
+  <img src="https://img.shields.io/badge/EJS-3776AB?logo=ejs&logoColor=fff&style=flat" alt="EJS Badge">
+  <img src="https://img.shields.io/badge/Lua-3776AB?logo=lua&logoColor=fff&style=flat" alt="Lua Badge">
 </p>
 
 ---
