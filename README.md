@@ -1,84 +1,31 @@
----
+# $> whoami
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%20there!%20I'm%20Nikolaj%20👋&height=100&section=header" alt="Hi there!"/>
-</p>
+```bash
+$> Nikolaj Madsen --role "Software & Security Developer"
+$> location "Jelling, Denmark"
+$> motto "Build with simplicity, harden with paranoia."
+```
+- 🔐 $> cd ~/research → Docker security, Kubernetes hardening, React Native
+- 🧠 $> cat learning → Offensive security, ML for threat detection, advanced DevOps
+- 📫 $> gpg --encrypt --recipient artemisdenmark@proton.me
 
-<h1 align="center">
-  Let's Connect and Build Something Amazing! 🚀
-</h1>
+## $> coding --languages
+![Python](https://img.shields.io/badge/Python-0D1117?logo=python&logoColor=2EA043&style=flat)
+![Javascript](https://img.shields.io/badge/JavaScript-0D1117?logo=javascript&logoColor=2EA043&style=flat)
+![Typescript](https://img.shields.io/badge/TypeScript-0D1117?logo=typescript&logoColor=2EA043&style=flat)
+![React](https://img.shields.io/badge/React-0D1117?logo=react&logoColor=2EA043&style=flat)
+![HTML](https://img.shields.io/badge/HTML5-0D1117?logo=html5&logoColor=2EA043&style=flat)
+![CSS](https://img.shields.io/badge/CSS-0D1117?logo=css&logoColor=2EA043&style=flat)
+![NodeJS](https://img.shields.io/badge/Node.js-0D1117?logo=nodedotjs&logoColor=2EA043&style=flat)
+![Docker](https://img.shields.io/badge/Docker-0D1117?logo=docker&logoColor=2EA043&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?logo=kubernetes&logoColor=2EA043&style=flat)
 
-<p align="center">
-  <!-- Replace # with your actual links -->
-  <a href="https://www.twitch.tv/artemis_dk"><img src="https://www.readmecodegen.com/api/social-icon?name=twitch&size=96&reverseBackground=true&link=https%3A%2F%2Fwww.twitch.tv%2Fartemis_dk" alt="twitch" /></a>
-  <a href="https://buymeacoffee.com/artemisdk"><img src="https://www.readmecodegen.com/api/social-icon?name=buymeacoffee&size=96&reverseBackground=true&link=https%3A%2F%2Fbuymeacoffee.com%2Fartemisdk" alt="buymeacoffee" /></a>
-</p>
+## $> security --toolkit
+![OWASP](https://img.shields.io/badge/OWASP-0D1117?logo=owasp&logoColor=2EA043&style=flat)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?logo=burpsuite&logoColor=2EA043&style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?logo=nmap&logoColor=2EA043&style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?logo=wireshark&logoColor=2EA043&style=flat)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?logo=metasploit&logoColor=2EA043&style=flat)
 
----
-
-## 👨🏻‍💻 About Me
-
-Hello! I'm Nikolaj Madsen, and I'm based in the beautiful city of Jelling, Denmark. I'm passionate about technology and always eager to learn new things. Currently, I'm diving deep into:
-
-- Docker & Kubernetes 🐳
-- React Native 📱
-- Advanced DevOps practices ⚙️
-- Machine Learning 🤖
-
-I'm excited to see how these technologies can help solve interesting problems and create innovative solutions. Let's connect and explore the possibilities!
-
----
-
-## 🛠️ My Tech Stack
-
-Here are some of the technologies I enjoy working with:
-
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-3776AB?logo=javascript&logoColor=fff&style=flat" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3776AB?logo=typescript&logoColor=fff&style=flat" alt="TypeScript"/>
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-3776AB?logo=react&logoColor=fff&style=flat" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-3776AB?logo=html5&logoColor=fff&style=flat" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-3776AB?logo=css&logoColor=fff&style=flat" alt="CSS Badge">
-  <img src="https://img.shields.io/badge/Bootstrap-3776AB?logo=bootstrap&logoColor=fff&style=flat" alt="Bootstrap"/>
-  <!-- Backend & Databases -->
-  <img src="https://img.shields.io/badge/Node.js-3776AB?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PHP-3776AB?logo=php&logoColor=fff&style=flat" alt="PHP"/>
-  <img src="https://img.shields.io/badge/.ENV-3776AB?logo=dotenv&logoColor=fff&style=flat" alt=".ENV Badge">
-  <img src="https://img.shields.io/badge/Better%20Auth-3776AB?logo=betterauth&logoColor=fff&style=flat" alt="Better Auth Badge">
-  <!-- Mobile & DevOps -->
-  <img src="https://img.shields.io/badge/discord.js-3776AB?logo=discorddotjs&logoColor=fff&style=flat" alt="discord.js Badge">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/AnyDesk-3776AB?logo=anydesk&logoColor=fff&style=flat" alt="AnyDesk Badge">
-  <img src="https://img.shields.io/badge/Blender-3776AB?logo=blender&logoColor=fff&style=flat" alt="Blender Badge">
-  <img src="https://img.shields.io/badge/Brave-3776AB?logo=brave&logoColor=fff&style=flat" alt="Brave Badge">
-  <img src="https://img.shields.io/badge/Cloudflare-3776AB?logo=cloudflare&logoColor=fff&style=flat" alt="Cloudflare Badge">
-  <img src="https://img.shields.io/badge/Cloudinary-3776AB?logo=cloudinary&logoColor=fff&style=flat" alt="Cloudinary Badge">
-  <img src="https://img.shields.io/badge/Composer-3776AB?logo=composer&logoColor=fff&style=flat" alt="Composer Badge">
-  <img src="https://img.shields.io/badge/EditorConfig-3776AB?logo=editorconfig&logoColor=fff&style=flat" alt="EditorConfig Badge">
-  <img src="https://img.shields.io/badge/Font%20Awesome-3776AB?logo=fontawesome&logoColor=fff&style=flat" alt="Font Awesome Badge">
-  <img src="https://img.shields.io/badge/Ghostery-3776AB?logo=ghostery&logoColor=fff&style=flat" alt="Ghostery Badge">
-  <img src="https://img.shields.io/badge/EJS-3776AB?logo=ejs&logoColor=fff&style=flat" alt="EJS Badge">
-  <img src="https://img.shields.io/badge/Lua-3776AB?logo=lua&logoColor=fff&style=flat" alt="Lua Badge">
-</p>
-
----
-
-## 📈 My GitHub Stats
-
-Here's an overview of my GitHub activity. It reflects my coding journey and contributions. I'm always striving to improve and learn more!
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artemisdenmark&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemisdenmark&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</p>
-
----
+## $> git stats --anonymized
+![Nikolaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=artemisdenmark&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
