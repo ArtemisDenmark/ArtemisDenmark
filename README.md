@@ -23,7 +23,6 @@ $> motto "Build with simplicity, harden with paranoia."
 ## $> security --toolkit
 ![OWASP](https://img.shields.io/badge/OWASP-0D1117?logo=owasp&logoColor=2EA043&style=flat)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?logo=burpsuite&logoColor=2EA043&style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?logo=nmap&logoColor=2EA043&style=flat)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?logo=wireshark&logoColor=2EA043&style=flat)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?logo=metasploit&logoColor=2EA043&style=flat)
 
