@@ -41,7 +41,7 @@ drwxr-xr-x  react-native-lab/
 $ cat ~/.focus
 🔐 Container security (Docker, K8s)
 🧠 ML for threat detection
-📱 React Native + Next.js
+📱 Next.js
 ⚡ Offensive security (learning)
 
 $ echo $CONTACT
@@ -75,6 +75,8 @@ services:
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Lua Badge](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=flat)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat)
 
 ## Frontend & Mobile
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
@@ -94,6 +96,7 @@ services:
 ![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)
 ![pnpm Badge](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=flat)
 ![esbuild Badge](https://img.shields.io/badge/esbuild-FFCF00?logo=esbuild&logoColor=000&style=flat)
+![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat)
 </details>
 
 ## 📊 System metrics (GitHub stats)
