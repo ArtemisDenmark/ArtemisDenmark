@@ -6,6 +6,9 @@ on:
     # Runs at 00:00 every day
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
