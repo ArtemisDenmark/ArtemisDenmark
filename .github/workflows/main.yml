@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: "0 */12 * * *"  # Fixed cron syntax (runs at minute 0 every 12 hours)
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Jobs to update datas

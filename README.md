@@ -136,7 +136,11 @@ No activity tracked
 <br>
 
 <div align="center">
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/ArtemisDenmark/ArtemisDenmark/main/profile-3d-contrib/profile-green-animate.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArtemisDenmark/ArtemisDenmark/main/profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArtemisDenmark/ArtemisDenmark/main/profile-3d-contrib/profile-green-animate.svg">
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/ArtemisDenmark/ArtemisDenmark/main/profile-3d-contrib/profile-green-animate.svg" />
+  </picture>
 </div>
 
 <br>
