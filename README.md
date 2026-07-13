@@ -26,7 +26,7 @@
 <summary><b>📖 Manual Page</b></summary>
 
 ```bash
-$ man artemis
+man artemis
 ```
 
 ```text
@@ -98,7 +98,7 @@ services:
     </a>
     <br><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cloudflare,vercel,npm,pnpm,github,vscode,figma,linux&perline=8" alt="Tools & Environments" />
+      <img src="https://skillicons.dev/icons?i=cloudflare,vercel,npm,pnpm,github,vscode,linux&perline=8" alt="Tools & Environments" />
     </a>
   </div>
 </details>
@@ -106,7 +106,7 @@ services:
 ## 📈 System metrics (GitHub stats)
 
 ```bash
-$ ./github-stats --user ArtemisDenmark
+./github-stats --user ArtemisDenmark
 ```
 
 ### Weekly Development Breakdown
@@ -160,7 +160,7 @@ No activity tracked
 ## 🏆 Achievements (trophy case)
 
 ```bash
-$ cat /var/log/achievements.log
+cat /var/log/achievements.log
 ```
 
 <div align="center">
@@ -170,7 +170,7 @@ $ cat /var/log/achievements.log
 ## 📰 Latest transmissions
 
 ```bash
-$ cat /var/log/latest-posts.log
+cat /var/log/latest-posts.log
 ```
 
 <!-- BLOG-POST-LIST:START -->
