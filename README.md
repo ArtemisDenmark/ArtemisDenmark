@@ -170,8 +170,8 @@ JSON          2 mins                -------------------------   01.43 %
   <tr>
     <td align="center" colspan="2">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ArtemisDenmark&theme=light&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&background=0D1117">
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ArtemisDenmark&theme=dark&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&background=0D1117">
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ArtemisDenmark&theme=light&hide_border=true">
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ArtemisDenmark&theme=dark&hide_border=true">
         <img src="https://streak-stats.demolab.com/?user=ArtemisDenmark&theme=dark&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&background=0D1117" alt="GitHub Streak" />
       </picture>
     </td>
