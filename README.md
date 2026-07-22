@@ -4,7 +4,12 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF00&background=0D1117&center=true&vCenter=true&width=650&height=70&cursor=%E2%96%88&cursorBlink=true&lines=%24+whoami;Artemis+%7C+Security+%26+DevOps;%24+cat+%7E%2F.mission;Docker+hardening+%7C+K8s+%7C+React+Native" alt="Typing SVG terminal style" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&center=true&vCenter=true&width=650&height=70&cursor=%E2%96%88&cursorBlink=true&lines=%24+whoami;Artemis+%7C+Security+%26+DevOps;%24+cat+%7E%2F.mission;Docker+hardening+%7C+K8s+%7C+React+Native">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF00&background=0D1117&center=true&vCenter=true&width=650&height=70&cursor=%E2%96%88&cursorBlink=true&lines=%24+whoami;Artemis+%7C+Security+%26+DevOps;%24+cat+%7E%2F.mission;Docker+hardening+%7C+K8s+%7C+React+Native">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00FF00&background=0D1117&center=true&vCenter=true&width=650&height=70&cursor=%E2%96%88&cursorBlink=true&lines=%24+whoami;Artemis+%7C+Security+%26+DevOps;%24+cat+%7E%2F.mission;Docker+hardening+%7C+K8s+%7C+React+Native" alt="Typing SVG terminal style" />
+  </picture>
+  
 </p>
 
 <pre align="center">
