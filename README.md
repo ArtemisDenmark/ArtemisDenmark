@@ -152,15 +152,28 @@ JSON          2 mins                -------------------------   01.43 %
 <table align="center">
   <tr>
     <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=ArtemisDenmark&theme=light&hide_border_true&show_icons=true&include_all_commits=true&count_private=true&title_color=00FF00&text_color=cccccc&icon_color=00FF00&bg_color=0D1117" alt="Github Stats">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=ArtemisDenmark&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=00FF00&text_color=CCCCCC&icon_color=00FF00&bg_color=0D1117" alt="Github Stats">
       <img src="https://github-readme-stats.shion.dev/api?username=ArtemisDenmark&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=00FF00&text_color=CCCCCC&icon_color=00FF00&bg_color=0D1117" alt="GitHub Stats" />
+        </picture
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArtemisDenmark&theme=dark&hide_border=true&layout=compact&title_color=00FF00&text_color=CCCCCC&bg_color=0D1117" alt="Top Languages" />
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=ArtemisDenmark&theme=light&hide_border=true&layout=compact&title_color=00FF00&text_color=CCCCCC&bg_color=0D1117">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Artemis
+          Denmark&theme=dark&hide_border=true&layout=compact&title_color=00FF00&text_color=CCCCCC&bg_color=0D1117">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArtemisDenmark&theme=dark&hide_border=true&layout=compact&title_color=00FF00&text_color=CCCCCC&bg_color=0D1117" alt="Top Languages" />
+      </picture>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=ArtemisDenmark&theme=dark&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&background=0D1117" alt="GitHub Streak" />
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ArtemisDenmark&theme=light&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&background=0D1117">
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ArtemisDenmark&theme=dark&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&background=0D1117">
+        <img src="https://streak-stats.demolab.com/?user=ArtemisDenmark&theme=dark&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&background=0D1117" alt="GitHub Streak" />
+      </picture>
     </td>
   </tr>
 </table>
