@@ -160,7 +160,7 @@ JSON          2 mins                -------------------------   01.43 %
     </td>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="(https://github-readme-stats.shion.dev/api/top-langs/?username=ArtemisDenmark&hide_border=true&layout=compact)">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=ArtemisDenmark&hide_border=true&layout=compact">
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Artemis
           Denmark&theme=dark&hide_border=true&layout=compact&title_color=00FF00&text_color=CCCCCC&bg_color=0D1117">
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ArtemisDenmark&theme=dark&hide_border=true&layout=compact&title_color=00FF00&text_color=CCCCCC&bg_color=0D1117" alt="Top Languages" />
