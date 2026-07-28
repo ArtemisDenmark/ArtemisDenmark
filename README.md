@@ -119,15 +119,15 @@ services:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2026 - To: 25 July 2026
+From: 19 July 2026 - To: 26 July 2026
 
-Total Time: 4 hrs 45 mins
+Total Time: 4 hrs 24 mins
 
-TypeScript   3 hrs 8 mins          >>>>>>>>>>>>>>>>---------   65.65 %
-Rust         1 hr 6 mins           >>>>>>-------------------   23.33 %
-SQL          13 mins               >------------------------   04.60 %
-TOML         6 mins                >------------------------   02.33 %
-CSS          4 mins                -------------------------   01.64 %
+TypeScript   2 hrs 49 mins         >>>>>>>>>>>>>>>>---------   63.99 %
+Rust         1 hr 6 mins           >>>>>>-------------------   25.22 %
+SQL          13 mins               >------------------------   04.98 %
+TOML         6 mins                >------------------------   02.51 %
+CSS          4 mins                -------------------------   01.77 %
 ```
 
 <!--END_SECTION:waka-->
