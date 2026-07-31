@@ -108,7 +108,6 @@ services:
         <source media="(perfers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker&perline=8&theme=light">
         <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker&perline=8" alt="Frameworks & Backend" 
       </picture>
-      />
     </a>
     <br><br>
     <a href="https://skillicons.dev">
