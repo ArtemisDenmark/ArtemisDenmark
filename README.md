@@ -95,11 +95,20 @@ services:
 
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css&perline=8" alt="Languages" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css&perline=8&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css&perline&theme=light">
+        <img src="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css&perline=8" />
+      </picture>
     </a>
     <br><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker&perline=8" alt="Frameworks & Backend" />
+      <picture>
+        <source media="(perfers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker&perline=8&theme=dark">
+        <source media="(perfers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker&perline=8&theme=light">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker&perline=8" alt="Frameworks & Backend" 
+      </picture>
+      />
     </a>
     <br><br>
     <a href="https://skillicons.dev">
