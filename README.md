@@ -95,11 +95,33 @@ services:
 
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css,react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker,cloudflare,vercel,npm,pnpm,github,vscode,linux&perline=8&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css,react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker,cloudflare,vercel,npm,pnpm,github,vscode,linux&perline=8&theme=light">
-      <img alt="github contribution grid snake animation" src="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css,react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker,cloudflare,vercel,npm,pnpm,github,vscode,linux&perline=8">
+      <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat" alt="Go Badge">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python Badge">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" alt="TypeScript Badge">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" alt="JavaScript Badge">
+      <img src="https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=flat" alt="Lua Badge">
+      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat" alt="PHP Badge">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5 Badge">
+      <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat" alt="CSS Badge">
     </picture>
-  </picture>
+    <br><br>
+    <picture>
+      <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat" alt="Next.js Badge">
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS Badge">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat" alt="Bootstrap Badge">
+      <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" alt="PostgreSQL Badge">
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat" alt="Supabase Badge">
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" alt="Docker Badge">
+    </picture>
+    <br><br>
+    <picture>
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat" alt="Cloudflare Badge">
+      <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat" alt="Vercel Badge">
+      <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat" alt="npm Badge">
+      <img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=flat" alt="pnpm Badge">
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="GitHub Badge">
+    </picture>
   </div>
 </details>
 
@@ -114,15 +136,15 @@ services:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2026 - To: 02 August 2026
+From: 25 July 2026 - To: 01 August 2026
 
-Total Time: 5 hrs 43 mins
+Total Time: 2 hrs 43 mins
 
-TypeScript   4 hrs 42 mins         >>>>>>>>>>>>>>>>>>>>-----   81.96 %
-Markdown     24 mins               >>-----------------------   07.22 %
-JSON         24 mins               >>-----------------------   07.20 %
-Rust         4 mins                -------------------------   01.20 %
-CSS          3 mins                -------------------------   01.10 %
+TypeScript   2 hrs 10 mins         >>>>>>>>>>>>>>>>>>>>-----   79.23 %
+JSON         19 mins               >>>----------------------   11.62 %
+Markdown     7 mins                >------------------------   04.82 %
+Rust         4 mins                >------------------------   02.52 %
+JavaScript   0 secs                -------------------------   00.41 %
 ```
 
 <!--END_SECTION:waka-->
