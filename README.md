@@ -97,7 +97,7 @@ services:
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css&perline=8&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css&perline=8&theme=light">
-    [https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css&perline=8](https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css&perline=8)
+    <img src="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css&perline=8"/>
       
   </picture>
     <br><br>
