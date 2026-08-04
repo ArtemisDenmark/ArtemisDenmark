@@ -95,22 +95,10 @@ services:
 
   <div align="center">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css&perline=8&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css&perline=8&theme=light">
-    <img src="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css&perline=8"/>
-      
-  </picture>
-    <br><br>
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker&perline=8&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker&perline=8&theme=light">
-    <img alt="github contribution grid snake animation" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker&perline=8">
-  </picture>
-    <br><br>
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cloudflare,vercel,npm,pnpm,github,vscode,linux&perline=8&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare,vercel,npm,pnpm,github,vscode,linux&perline=8&theme=light">
-    <img alt="github contribution grid snake animation" src="https://skillicons.dev/icons?i=cloudflare,vercel,npm,pnpm,github,vscode,linux&perline=8">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css,react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker,cloudflare,vercel,npm,pnpm,github,vscode,linux&perline=8&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css,react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker,cloudflare,vercel,npm,pnpm,github,vscode,linux&perline=8&theme=light">
+      <img alt="github contribution grid snake animation" src="https://skillicons.dev/icons?i=go,py,ts,js,lua,php,html,css,react,nextjs,tailwind,bootstrap,nodejs,postgres,supabase,docker,cloudflare,vercel,npm,pnpm,github,vscode,linux&perline=8">
+    </picture>
   </picture>
   </div>
 </details>
