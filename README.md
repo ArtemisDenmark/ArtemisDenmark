@@ -136,15 +136,15 @@ services:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2026 - To: 20 August 2026
+From: 14 August 2026 - To: 21 August 2026
 
-Total Time: 5 hrs 39 mins
+Total Time: 5 hrs 45 mins
 
-TypeScript   3 hrs 47 mins         >>>>>>>>>>>>>>>>---------   65.67 %
-Rust         1 hr 28 mins          >>>>>>-------------------   25.74 %
-Markdown     21 mins               >>-----------------------   06.17 %
-Other        5 mins                -------------------------   01.70 %
-XML          0 secs                -------------------------   00.23 %
+TypeScript    4 hrs 39 mins         >>>>>>>>>>>>>>>>>>>>-----   79.48 %
+Rust          35 mins               >>>----------------------   10.20 %
+Markdown      21 mins               >>-----------------------   06.06 %
+Image (svg)   6 mins                -------------------------   01.88 %
+Other         5 mins                -------------------------   01.67 %
 ```
 
 <!--END_SECTION:waka-->
