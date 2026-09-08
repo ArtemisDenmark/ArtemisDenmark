@@ -136,15 +136,15 @@ services:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2026 - To: 05 September 2026
+From: 30 August 2026 - To: 06 September 2026
 
-Total Time: 11 hrs 39 mins
+Total Time: 11 hrs 4 mins
 
-TypeScript   9 hrs 10 mins         >>>>>>>>>>>>>>>>>--------   67.70 %
-Other        1 hr 52 mins          >>>----------------------   13.90 %
-JSON         39 mins               >------------------------   04.81 %
-JavaScript   35 mins               >------------------------   04.32 %
-Git Config   14 mins               -------------------------   01.75 %
+TypeScript   8 hrs 52 mins         >>>>>>>>>>>>>>>>>>-------   70.99 %
+Other        1 hr 25 mins          >>>----------------------   11.39 %
+JavaScript   37 mins               >------------------------   05.05 %
+Go           24 mins               >------------------------   03.27 %
+JSON         15 mins               >------------------------   02.02 %
 ```
 
 <!--END_SECTION:waka-->
